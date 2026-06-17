@@ -20,6 +20,12 @@
 
 > CSDN 更适合把系统讲明白，GitHub 更适合把工程交付完整。智能车项目要长期维护，源码、部署文档、接口说明和后续更新最好统一放到 GitHub。  
 
+### 1.1 完整仓库地址
+
+完整源码、README 和配套文档已经整理到 GitHub：
+
+[https://github.com/lelala271/yuchi-system](https://github.com/lelala271/yuchi-system)
+
 ---
 
 ## 2. 为什么这类项目不建议只发一篇 CSDN
