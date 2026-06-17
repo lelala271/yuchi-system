@@ -9,12 +9,12 @@
 
 ## 启动
 ```powershell
-cd D:\yuchi-system\backend
+cd backend
 npm start
 ```
 
 ```powershell
-cd D:\yuchi-system\frontend
+cd frontend
 npm run dev -- --host 127.0.0.1 --port 5173
 ```
 
@@ -24,7 +24,7 @@ npm run dev -- --host 127.0.0.1 --port 5173
 首次启动后，请查看：
 
 - 后端启动日志
-- `D:\yuchi-system\backend\data\runtime-secrets.json`
+- `backend/data/runtime-secrets.json`
 
 其中会包含自动生成或配置好的管理员初始密码。
 
